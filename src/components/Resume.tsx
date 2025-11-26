@@ -3,7 +3,7 @@ import { Download, FileText } from 'lucide-react';
 import { Button } from './ui/button';
 
 export function Resume() {
-  const resumeUrl = 'https://drive.google.com/file/d/1Br6WvtMwxRApcBTNNILYkGoX0BJVdnPS/view?usp=sharing';
+  const resumeUrl = 'https://drive.google.com/file/d/1_7_FwYCy4Q7ng7X7VlghhoLRWRqv_lpB/view?usp=drive_link';
   
   const handleViewResume = () => {
     window.open(resumeUrl, '_blank', 'noopener,noreferrer');

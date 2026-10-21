@@ -37,7 +37,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3 }}
           >
-            Computer Science & Engineering (Data Science) Student
+            Computer Science(Data Science) Engineer
           </motion.h2>
           
           <motion.p

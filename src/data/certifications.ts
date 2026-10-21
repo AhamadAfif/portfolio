@@ -16,7 +16,7 @@ export const certifications: Certification[] = [
     id: 0,
     title: "Bachelor of Engineering – Computer Science & Engineering (Data Science)",
     issuer: "Visvesvaraya Technological University, Belagavi",
-    date: "June 2026",
+    date: "October 2026",
     image: degreeCertificate
   },
   {

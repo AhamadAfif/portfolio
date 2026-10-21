@@ -159,7 +159,7 @@ export function About() {
               </div>
               <div className="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg">
                 <p className="text-gray-500 dark:text-gray-400 text-sm">Graduated</p>
-                <p className="text-gray-900 dark:text-white">June 2026</p>
+                <p className="text-gray-900 dark:text-white">October 2026</p>
               </div>
               <div className="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg col-span-2">
                 <p className="text-gray-500 dark:text-gray-400 text-sm">Email</p>
